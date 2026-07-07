@@ -1,0 +1,3 @@
+version:2
+url:https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v2.0/app.apk
+msg:Bhai, naya automatic fast update aa gaya hai! Jaldi se download karo.
