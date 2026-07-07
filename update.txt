@@ -1,3 +1,3 @@
 version:2
-url:https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v2.0/app.apk
-msg:Bhai, naya automatic fast update aa gaya hai! Jaldi se download karo.
+url:https://github.com/omm471/live-age-calculator-updates/releases/download/v2.0/LiveAgeCalculator.apk
+msg:🚀 New Premium Update Live! Nua features add hei jaichi, jaldi install karo bhai.
